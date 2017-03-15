@@ -17,7 +17,7 @@
 
 *All builds must be run from the `violetbug/source` directory.*
 
-|x|x|
+| | |
 |---|---
 |`npm run build-mac`    | Run on **linux or macOS** to generate `/builds/mac`
 | `npm run build-linux` | Run on **linux or macOS** to generate `/builds/linux`
