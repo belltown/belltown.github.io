@@ -27,7 +27,7 @@
 
 *All zips must be run from the `violetbug/source` directory, and require the corresponding build step above to have been run.*
 
-|||
+| | |
 |---|---
 | `npm run zip-mac`   | To generate `/dist/violetbug-mac.zip`
 | `npm run zip-linux` | To generate `/dist/violetbug-linux.zip`
@@ -41,7 +41,7 @@ There is no installer implemented for macOS. For macOS, use the build/zip mechan
 
 The following commands are available to generate installers in `/dist`:
 
-|x|
+| |
 |---
 | `npm run dist-appimage`
 | `npm run dist-deb`
