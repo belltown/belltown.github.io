@@ -27,7 +27,7 @@
 
 *All zips must be run from the `violetbug/source` directory, and require the corresponding build step above to have been run.*
 
-|x|x|
+|||
 |---|---
 | `npm run zip-mac`   | To generate `/dist/violetbug-mac.zip`
 | `npm run zip-linux` | To generate `/dist/violetbug-linux.zip`
