@@ -15,6 +15,11 @@
                 "episodes": [
                     {
                         "content": {
+                            "captions": {
+                                "Language": "fr",
+                                "captionType": "CLOSED_CAPTION",
+                                "url": "https://example.org/cdn/subtitles/1509428502952/sub-fr.srt"
+                            },
                             "dateAdded": "2015-11-11T22:21:37+00:00",
                             "duration": 1290,
                             "videos": [
