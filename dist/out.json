@@ -20,7 +20,7 @@
                             "videos": [
                                 {
                                     "quality": "UHD",
-                                    "url": "https://example.org/cdn/videos/1509428502952",
+                                    "url": "http://roku.cpl.delvenetworks.com/media/59021fabe3b645968e382ac726cd6c7b/6c9d0951d6d74229afe4adf972b278dd/bc227724e2854c6b93ad48d1feb39c16/roku_ep_115_segment_5_paula_nw_050515.mp4",
                                     "videoType": "HLS"
                                 }
                             ]
@@ -39,7 +39,7 @@
                             "videos": [
                                 {
                                     "quality": "UHD",
-                                    "url": "https://example.org/cdn/videos/1509428502952",
+                                    "url": "http://roku.cpl.delvenetworks.com/media/59021fabe3b645968e382ac726cd6c7b/6c9d0951d6d74229afe4adf972b278dd/bc227724e2854c6b93ad48d1feb39c16/roku_ep_115_segment_5_paula_nw_050515.mp4",
                                     "videoType": "HLS"
                                 }
                             ]
