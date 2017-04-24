@@ -3,11 +3,36 @@
     "lastUpdated": "2015-11-11T22:21:37+00:00",
     "providerName": "Acme Productions",
     "series": {
+        "genres": [
+            "educational",
+            "science fiction",
+            "thriller"
+        ],
         "id": "1509428502952",
         "releaseDate": "2015-11-11",
         "seasons": [
             {
-                "episodes": [],
+                "episodes": [
+                    {
+                        "content": {
+                            "dateAdded": "2015-11-11T22:21:37+00:00",
+                            "duration": 1290,
+                            "videos": [
+                                {
+                                    "quality": "UHD",
+                                    "url": "http://roku.cpl.delvenetworks.com/media/59021fabe3b645968e382ac726cd6c7b/6c9d0951d6d74229afe4adf972b278dd/bc227724e2854c6b93ad48d1feb39c16/roku_ep_115_segment_5_paula_nw_050515.mp4",
+                                    "videoType": "HLS"
+                                }
+                            ]
+                        },
+                        "episodeNumber": 1,
+                        "id": "1",
+                        "releaseDate": "2015-11-11",
+                        "shortDescription": "Short Description for Season 1 Episode: 1",
+                        "thumbnail": "https://blog.roku.com/developer/files/2016/10/twitch-poster-artwork.png",
+                        "title": "Season 1 Episode 1"
+                    }
+                ],
                 "seasonNumber": 1
             }
         ],
