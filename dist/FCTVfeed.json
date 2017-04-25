@@ -1,0 +1,102 @@
+{
+  "providerName": "Food Chain TV",
+  "language": "en-US",
+  "lastUpdated": "2017-01-01T18:12:32.125Z",
+  "shortFormVideos": [
+    {
+      "id": "peel garlic how to",
+      "title": "How to Peel Garlic",
+      "shortDescription": "In this video, you will learn the quickest way to peel garlic.",
+      "thumbnail": "http://www.foodchaintv.com/testing/images/peelgarlictitle.jpg",
+      "genres": [
+        "food"
+      ],
+      "tags": [
+        "food",
+        "cooking",
+        "garlic",
+        "chef",
+        "how to"
+      ],
+      "releaseDate": "2017-01-01",
+      "content": {
+        "dateAdded": "2017-04-21T14:14:54.431Z",
+        "captions": [],
+        "duration": 171,
+        "adBreaks": [],
+        "videos": [
+          {
+            "url": "http://goo.gl/sPOkKT",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "chicken feet ths",
+      "title": "Chinese Style Chicken Feet",
+      "shortDescription": "In this video you will learn how to make delicious dim sum style chicken feet.",
+      "thumbnail": "http://www.foodchaintv.com/testing/images/chickenfeettitle.jpg",
+      "genres": [
+        "food"
+      ],
+      "tags": [
+        "food",
+        "cooking",
+        "eating"
+      ],
+      "releaseDate": "2016-01-01",
+      "content": {
+        "dateAdded": "2016-05-21T14:14:54.431Z",
+        "captions": [],
+        "duration": 365,
+        "adBreaks": [],
+        "videos": [
+          {
+            "url": "http://goo.gl/RjmM5r",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    }
+  ],
+  "playlists": [
+    {
+      "name": "how to videos",
+      "itemIds": [
+        "peel garlic how to"
+      ]
+    },
+    {
+      "name": "skillet",
+      "itemIds": [
+        ""
+      ]
+    },
+    {
+      "name": "board",
+      "itemIds": [
+        ""
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "name": "How To Videos",
+      "playlistName": "how to videos",
+      "order": "manual"
+    },
+    {
+      "name": "The Hot Skillet",
+      "playlistName": "skillet",
+      "order": "manual"
+    },
+    {
+      "name": "On The Cutting Board",
+      "playlistName": "board",
+      "order": "manual"
+    }
+  ]
+}
