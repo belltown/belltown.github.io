@@ -3,23 +3,6 @@
     "lastUpdated": "2015-11-11T22:21:37+00:00",
     "providerName": "Acme Productions",
     "shortFormVideo": {
-        "categories": [
-            {
-                "name": "Roku Recommends",
-                "order": "manual",
-                "playlistName": "short-form"
-            },
-            {
-                "name": "Sports & Gaming",
-                "order": "manual",
-                "playlistName": "sports"
-            },
-            {
-                "name": "Miscellaneous",
-                "order": "manual",
-                "playlistName": "misc"
-            }
-        ],
         "content": {
             "adBreaks": [
                 "00:00:00",
