@@ -1,6 +1,21 @@
 {
+    "categories": [
+        {
+            "name": "Roku Recommends",
+            "order": "manual",
+            "playlistName": "test-playlist"
+        }
+    ],
     "language": "en",
     "lastUpdated": "2015-11-11T22:21:37+00:00",
+    "playlists": [
+        {
+            "itemIds": [
+                "series-id"
+            ],
+            "name": "test-playlist"
+        }
+    ],
     "providerName": "Acme Productions",
     "series": [
         {
@@ -9,7 +24,7 @@
                 "science fiction",
                 "thriller"
             ],
-            "id": "1509428502952",
+            "id": "series-id",
             "releaseDate": "2015-11-11",
             "seasons": [
                 {
