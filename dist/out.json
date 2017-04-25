@@ -1,6 +1,21 @@
 {
+    "categories": [
+        {
+            "name": "Roku Recommends",
+            "order": "manual",
+            "playlistName": "short-form"
+        }
+    ],
     "language": "en",
     "lastUpdated": "2015-11-11T22:21:37+00:00",
+    "playlists": [
+        {
+            "itemIds": [
+                "id-shortForm"
+            ],
+            "name": "short-form"
+        }
+    ],
     "providerName": "Acme Productions",
     "shortFormVideo": {
         "content": {
