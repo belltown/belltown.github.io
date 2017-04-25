@@ -17,27 +17,29 @@
         }
     ],
     "providerName": "Acme Productions",
-    "shortFormVideo": {
-        "content": {
-            "adBreaks": [
-                "00:00:00",
-                "00:00:53"
-            ],
-            "captions": [],
-            "dateAdded": "2015-06-11T14:14:54.431Z",
-            "duration": 53,
-            "videos": [
-                {
-                    "quality": "HD",
-                    "url": "http://roku.cpl.delvenetworks.com/media/59021fabe3b645968e382ac726cd6c7b/decbe34b64ea4ca281dc09997d0f23fd/aac0cfc54ae74fdfbb3ba9a2ef4c7080/117_segment_2_twitch__nw_060515.mp4",
-                    "videoType": "MP4"
-                }
-            ]
-        },
-        "id": "id-shortForm",
-        "releaseDate": "2015-06-11",
-        "shortDescription": "ShortForm Short Description",
-        "thumbnail": "https://blog.roku.com/developer/files/2016/10/twitch-poster-artwork.png",
-        "title": "Short Form Title"
-    }
+    "shortFormVideos": [
+        {
+            "content": {
+                "adBreaks": [
+                    "00:00:00",
+                    "00:00:53"
+                ],
+                "captions": [],
+                "dateAdded": "2015-06-11T14:14:54.431Z",
+                "duration": 53,
+                "videos": [
+                    {
+                        "quality": "HD",
+                        "url": "http://roku.cpl.delvenetworks.com/media/59021fabe3b645968e382ac726cd6c7b/decbe34b64ea4ca281dc09997d0f23fd/aac0cfc54ae74fdfbb3ba9a2ef4c7080/117_segment_2_twitch__nw_060515.mp4",
+                        "videoType": "MP4"
+                    }
+                ]
+            },
+            "id": "id-shortForm",
+            "releaseDate": "2015-06-11",
+            "shortDescription": "ShortForm Short Description",
+            "thumbnail": "https://blog.roku.com/developer/files/2016/10/twitch-poster-artwork.png",
+            "title": "Short Form Title"
+        }
+    ]
 }
