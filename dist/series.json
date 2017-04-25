@@ -1,0 +1,85 @@
+{
+  "providerName": "Acme Productions",
+  "lastUpdated": "2015-11-11T22:21:37+00:00",
+  "language": "en",
+  "series": {
+    "id": "1509428502952",
+    "title": "The Amazing Series with Seasons!",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+
+          {
+            "id": "1509428502952",
+            "title": "The Amazing First Episode Title",
+            "content": {
+              "dateAdded": "2015-11-11T22:21:37+00:00",
+              "videos": [
+                {
+                  "url": "https://example.org/cdn/videos/1509428502952",
+                  "quality": "UHD",
+                  "videoType": "HLS"
+                }
+              ],
+              "duration": 1290
+            },
+            "thumbnail": "https://example.org/cdn/thumbnails/1509428502952/1",
+            "episodeNumber": 1,
+            "releaseDate": "2015-11-11",
+            "shortDescription": "Episode 1"
+          },
+
+          {
+            "id": "1509428502953",
+            "title": "The Amazing Second Episode Title",
+            "content": {
+              "dateAdded": "2015-11-11T22:21:37+00:00",
+              "videos": [
+                {
+                  "url": "https://example.org/cdn/videos/1509428502952",
+                  "quality": "UHD",
+                  "videoType": "HLS"
+                }
+              ],
+              "duration": 1290
+            },
+            "thumbnail": "https://example.org/cdn/thumbnails/1509428502952/1",
+            "episodeNumber": 2,
+            "releaseDate": "2015-11-11",
+            "shortDescription": "Episode 2"
+          },
+
+          {
+            "id": "1509428502954",
+            "title": "The Amazing Third Episode Title",
+            "content": {
+              "dateAdded": "2015-11-11T22:21:37+00:00",
+              "videos": [
+                {
+                  "url": "https://example.org/cdn/videos/1509428502952",
+                  "quality": "UHD",
+                  "videoType": "HLS"
+                }
+              ],
+              "duration": 1290
+            },
+            "thumbnail": "https://example.org/cdn/thumbnails/1509428502952/1",
+            "episodeNumber": 3,
+            "releaseDate": "2015-11-11",
+            "shortDescription": "Episode 3"
+          }
+
+        ]
+      }
+    ],
+    "genres": [
+      "educational",
+      "science fiction",
+      "thriller"
+    ],
+    "thumbnail": "https://example.org/cdn/thumbnails/1509428502952/1",
+    "releaseDate": "2015-11-11",
+    "shortDescription": "Wondrous series seasons."
+  }
+}
